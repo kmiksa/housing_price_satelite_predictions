@@ -1,6 +1,6 @@
 # housing-price-predictor
 
-[![Housing Prices with Satelite Images Presentation](https://youtu.be/S9r580x1kvU/0.jpg)](https://youtu.be/S9r580x1kvU "Housing Prices with Satelite Images Presentation")
+[![Housing Prices with Satelite Images Presentation](https://img.youtube.com/vi/S9r580x1kvU/maxresdefault.jpg)](https://youtu.be/S9r580x1kvU "Housing Prices with Satelite Images Presentation")
 
 
 ## Build & quickstart
